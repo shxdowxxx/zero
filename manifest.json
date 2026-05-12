@@ -1,0 +1,13 @@
+{
+  "name": "Zero",
+  "short_name": "Zero",
+  "description": "Unblocked access — browse, games, movies, music",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#080810",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "Zerologo.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
