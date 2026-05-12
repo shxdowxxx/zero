@@ -12,7 +12,7 @@ related_files:
   - zero/context/gemini.md
   - zero/context/project-state.md
   - .claude/shared-knowledge.md
-github_commit: pending
+github_commit: 635e81d (shxdowxxx/zero)
 ---
 
 # Session Summary — 2026-05-12

@@ -20,7 +20,7 @@ Phase 1 approximately 60% complete.
 - JS features (proxy stub, games, movies, music, etc.): complete (from prior sessions)
 - CSS visual overhaul (glassmorphism): complete as of 2026-05-12
 - Browser testing of new CSS: not yet done
-- GitHub repo: not created
+- GitHub repo: exists (shxdowxxx/zero, main branch, wired 2026-05-12)
 - S3 deployment: not done
 - Proxy end-to-end: not tested
 
